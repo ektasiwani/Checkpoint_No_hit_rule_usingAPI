@@ -2,7 +2,7 @@
 Scripts are used to find all the no hit rules and save the information in the CSV file
 
 Steps to run the script:
-1. Copy the bash script "no-hit-rule.sh" on the management server. Run the script with below command
+1. Copy the bash script "no-hit-rule.sh" on the checkpoint management server. Run the script with below command
             >> dos2unix no-hit-rule.sh
             >> chmod 777 no-hit-rule.sh
             >> ./no-hit-rule.sh
